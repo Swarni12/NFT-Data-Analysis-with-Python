@@ -29,9 +29,3 @@ The notebook performs the following steps:
 - NumPy
 - Matplotlib & Seaborn
 - Jupyter Notebook
-
-## 📌 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/nft-analysis.git
-   cd nft-analysis
