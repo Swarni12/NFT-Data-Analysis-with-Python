@@ -21,8 +21,7 @@ The notebook performs the following steps:
 
 ## 📁 Files Included
 - `nft_notebook.ipynb` — Main Jupyter Notebook containing the full analysis.
-- `data/` — Folder where the dataset used is stored (if public).
-- `images/` — Any visualizations or plots saved from the notebook (optional).
+- `dataset` — Dataset which I have used for performing the analysis.
 
 ## 🛠️ Technologies Used
 - Python
